@@ -1,0 +1,154 @@
+		
+		*
+		{
+			margin: 0px;
+		}
+
+		@font-face{
+			font-family: 'Lato-Black_0';
+			src:local('Lato-Black_0'),url(../fonts/Lato-Black_0.ttf);
+		}
+
+
+		@font-face{
+			font-family: 'Lato-BlackItalic_0';
+			src:local('Lato-BlackItalic_0'),url(../fonts/Lato-BlackItalic_0.ttf);
+		}
+
+		@font-face{
+			font-family: 'Lato-Bold_0';
+			src:local('Lato-Bold_0'),url(../fonts/Lato-Bold_0.ttf);
+		}
+
+		@font-face{
+			font-family: 'Lato-Hairline_0';
+			src:local('Lato-Hairline_0'),url(../fonts/Lato-Hairline_0.ttf);
+		}
+
+		@font-face{
+			font-family: 'Lato-HairlineItalic_0';
+			src:local('Lato-HairlineItalic_0'),url(../fonts/Lato-HairlineItalic_0.ttf);
+		}
+
+		@font-face{
+			font-family: 'Lato-Italic_0';
+			src:local('Lato-Italic_0'),url(../fonts/Lato-Italic_0.ttf);
+		}
+
+		@font-face{
+			font-family: 'Lato-Light_0';
+			src:local('Lato-Light_0'),url(../fonts/Lato-Light_0.ttf);
+		}
+
+		@font-face{
+			font-family: 'Lato-LightItalic_0';
+			src:local('Lato-LightItalic_0'),url(../fonts/Lato-LightItalic_0.ttf);
+		}
+
+		@font-face{
+			font-family: 'Lato-BoldItalic_0';
+			src:local('Lato-BoldItalic_0'),url(../fonts/Lato-BoldItalic_0.ttf);
+		}
+
+		@font-face{
+			font-family: 'Lato-Regular_0';
+			src:local('Lato-Regular_0'),url(../fonts/Lato-Regular_0.ttf);
+		}
+
+		
+		body{
+			background-color:#4C4545;
+		}
+
+
+		nav{
+			background-color:#223465;
+			width:1000px;
+			height:40px;
+		}
+
+		a
+		{
+			text-decoration: none;
+		}
+
+		.li
+		{
+			list-style-type: none;
+			float: right;
+			padding-right: 50px;
+		}
+
+		.navigation
+		{
+			font-family: 'Lato',sans-serif;
+			color: #231F20;
+			font-weight: bolder;
+			font-size: 15px;
+		}
+
+		.navigation:hover
+		{
+			color: #B52E18;
+		}
+
+		#nas
+		{
+			background-color:#f8f8f8;
+			width:1050px;
+			height:120px;
+			padding:20px 40px 0px 10px;
+			font-weight: normal;
+		}
+
+		#name
+		{
+			color: #231F20;
+			font-family: 'Lato',sans-serif;
+			font-style: italic;
+			font-weight: bold;
+			font-size: 15px;
+		}
+
+		.hrf
+		{
+			color: #231F20;
+			font-family: 'Lato',sans-serif;
+			font-weight: bolder;
+			text-decoration: none;
+			padding-left: 18px;
+			
+
+		}
+
+		.hrf:hover
+		{
+			color:  #B52E18;
+		}		
+
+
+		.div
+		{
+			 background-color:#f8f8f8;
+			 width:1020px;
+			 height:120px;
+			 padding:20px 40px 0px 40px;
+		}
+		
+
+
+		footer
+		{
+			background-color:#B52E18;
+			width:1100px;
+			height:120px;
+			margin: 0px auto;
+		}
+		#fot
+		{
+			color: #f9f9f9;
+			font-size: 15px;
+			float:right;
+			margin: 60px 385px 50px 195px;
+			font-family:'Lato',sans-serif;
+		}

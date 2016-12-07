@@ -1,0 +1,441 @@
+		
+		*
+		{
+			margin: 0px;
+		}
+
+		@font-face{
+			font-family: 'Lato-Black_0';
+			src:local('Lato-Black_0'),url(../fonts/Lato-Black_0.ttf);
+		}
+
+
+		@font-face{
+			font-family: 'Lato-BlackItalic_0';
+			src:local('Lato-BlackItalic_0'),url(../fonts/Lato-BlackItalic_0.ttf);
+		}
+
+		@font-face{
+			font-family: 'Lato-Bold_0';
+			src:local('Lato-Bold_0'),url(../fonts/Lato-Bold_0.ttf);
+		}
+
+		@font-face{
+			font-family: 'Lato-Hairline_0';
+			src:local('Lato-Hairline_0'),url(../fonts/Lato-Hairline_0.ttf);
+		}
+
+		@font-face{
+			font-family: 'Lato-HairlineItalic_0';
+			src:local('Lato-HairlineItalic_0'),url(../fonts/Lato-HairlineItalic_0.ttf);
+		}
+
+		@font-face{
+			font-family: 'Lato-Italic_0';
+			src:local('Lato-Italic_0'),url(../fonts/Lato-Italic_0.ttf);
+		}
+
+		@font-face{
+			font-family: 'Lato-Light_0';
+			src:local('Lato-Light_0'),url(../fonts/Lato-Light_0.ttf);
+		}
+
+		@font-face{
+			font-family: 'Lato-LightItalic_0';
+			src:local('Lato-LightItalic_0'),url(../fonts/Lato-LightItalic_0.ttf);
+		}
+
+		@font-face{
+			font-family: 'Lato-BoldItalic_0';
+			src:local('Lato-BoldItalic_0'),url(../fonts/Lato-BoldItalic_0.ttf);
+		}
+
+		@font-face{
+			font-family: 'Lato-Regular_0';
+			src:local('Lato-Regular_0'),url(../fonts/Lato-Regular_0.ttf);
+		}
+
+		body{
+			background-color:#4C4545;
+		}
+
+
+		nav{
+			background-color:#223465;
+			width:1000px;
+			height:40px;
+		}
+
+		#nas
+		{
+			background-color:#f8f8f8;
+			width:1050px;
+			height:120px;
+			padding:20px 40px 0px 10px;
+			font-weight: normal;
+		}
+
+		a
+		{
+			text-decoration: none;
+		}
+
+		.li
+		{
+			list-style-type: none;
+			float: right;
+			padding-right: 50px;
+		}
+		
+		.navigation
+		{
+			font-family: 'Lato',sans-serif;
+			color: #231F20;
+			font-weight: bolder;
+			font-size: 15px;
+		}
+
+		.navigation:hover
+		{
+			color: #B52E18;
+		}
+
+
+		#name
+		{
+			color: #231F20;
+			font-family: 'Lato',sans-serif;
+			font-weight: bold;
+			font-size: 15px;
+			font-style: italic;
+		}
+
+
+
+
+
+		.hrf
+		{
+			color: #231F20;
+			font-family: 'Lato',sans-serif;
+			font-weight: bolder;
+			text-decoration: none;
+			padding-left: 18px;
+		}
+
+		.hrf:hover
+		{
+			color:  #B52E18;
+		}		
+
+
+		.div
+		{
+			 background-color:#f8f8f8;
+			 width:1020px;
+			 height:120px;
+			 padding:20px 40px 0px 40px;
+		}
+
+
+
+		#onw
+		{
+			background-color:#ffffff;
+			width:1100px;
+			height:2010px;
+			margin:0px auto;
+			margin-top: 5px;
+		}
+
+
+
+		.divone
+		{
+			background-color:#ffffff;
+			width:500px;
+			height:390px;
+			float:left;
+			margin:15px 0px 10px 40px;
+			font-family: 'Lato',sans-serif;
+			font-size: 12px;
+			box-shadow: 2px 2px 5px 5px #696969;
+		}
+
+		.divtwo
+		{
+			background-color:#ffffff;
+			width:500px;
+			height:390px;
+			float:left;
+			margin:15px 20px 10px 25px;
+			box-shadow: 2px 2px 5px 5px #696969;
+		}
+
+		.divthree
+		{
+			background-color:#ffffff;
+			width:1025px;
+			height:300px;
+			float:left;
+			margin:20px 0px 10px 40px;
+			font-family: 'Lato',sans-serif;
+			font-size: 12px;
+			box-shadow: 2px 2px 5px 5px #696969;
+		}
+
+		li
+		{
+			color: #CF341B;
+		}
+
+		li span
+		{
+			color: #231F20;
+			font-family: 'Lato',sans-serif;
+			font-size: 17px;
+		}
+		
+
+		
+
+
+		.ei
+		{
+			padding: 8px;
+		}
+
+
+		#hastag
+		{
+			font-size: 17px;
+			padding-left: 5px;
+		}
+
+		#teamlogo
+		{
+			font-size: 17px;
+		}
+
+		#team
+		{
+			font-size: 17px;
+		}
+
+		#P
+		{
+			font-size: 17px;
+			padding-left: 30px;
+		}
+
+		#W
+		{
+			font-size: 17px;
+			padding-left: 30px;
+		}
+		
+
+		#D
+		{
+			font-size: 17px;
+			padding-left: 30px;
+		}
+		
+		#L
+		{
+			font-size: 17px;
+			padding-left: 35px;
+		}
+		
+
+		#GF
+		{
+			font-size: 17px;
+			padding-left: 10px;
+		}
+		
+		#GA
+		{
+			font-size: 17px;
+			padding-left: 10px;
+		}
+		
+
+		#GD
+		{
+			font-size: 17px;
+			padding-left: 10px;
+		}
+		
+		#Pts
+		{
+			font-size: 17px;
+			padding-left: 10px;
+		}
+		
+
+		.hastag
+		{
+			font-size: 15px;
+		}
+
+		.imgs
+		{
+			padding-left: 0px;
+		}
+		.team
+		{
+			font-size: 15px;
+		}
+
+		.P
+		{
+			font-size: 15px;
+			padding-left: 20px;
+		}
+
+		.W
+		{
+			font-size: 15px;
+			padding-left: 20px;
+		}
+
+
+		.D
+		{
+			font-size: 15px;
+			padding-left: 20px;
+		}
+
+		.L
+		{
+			font-size: 15px;
+			padding-left: 20px;
+		}
+
+		.GF
+		{
+			font-size: 15px;
+			padding-left: 20px;
+		}
+
+		.GA
+		{	
+			font-size: 15px;
+			padding-left: 20px;
+		}
+
+		.GD
+		{
+			font-size: 15px;
+			padding-left: 20px;
+		}
+
+		.Pts
+		{
+			font-size: 15px;
+			padding-left: 20px;
+		}	
+
+
+		.txt
+		{
+			margin-left: 25px;
+		}
+
+		#rm
+		{
+			color: #CF341B;
+			font-weight: bolder;
+		}
+
+		#rm_link
+		{
+			color: #CF341B;
+			font-weight: bolder;
+			text-decoration: none;	
+		}
+
+		#rm_link:hover
+		{
+			color: #231F20;
+		}
+
+
+		#clockdiv
+		{
+    	font-family: sans-serif;
+    	color: #fff;
+    	display: inline-block;
+    	font-weight: 100;
+    	text-align: center;
+    	font-size: 30px;
+		}
+
+		#clockdiv > div
+		{
+    	padding: 10px 10px 10px 10px;
+    	margin-left: 30px;
+    	border-radius: 5px;
+    	background: #f8f8f8;
+    	box-shadow: 2px 2px 10px 2px #231f30;
+    	display: inline-block;
+		}
+
+		#clockdiv div > span
+		{
+   		padding:15px 15px 15px 15px;
+    	border-radius: 2px;
+    	background: #fff;
+    	display: inline-block;
+		}	
+
+   		.smalltext{
+    	padding-top: 5px;
+    	font-size: 16px;
+    	font-family: 'Lato',sans-serif;
+   		color: #231F20;
+   		font-weight: bolder;
+    	}
+
+    	#days
+   		{
+    	color: #231F20;
+    	font-size: 15px;
+    	}	
+
+    	#hours
+    	{
+    	color: #231F20;
+    	font-size: 15px;
+   	    }
+
+   	    #minutes
+		{
+		color: #231F20;
+    	font-size: 15px;
+   		}
+   		
+    	#seconds
+    	{
+    	color: #231F20;
+    	font-size: 15px;
+   	    }
+	
+		
+
+		footer
+		{
+			background-color:#B52E18;
+			width:1100px;
+			height:120px;
+			margin: 0px auto;
+		}
+		#fot
+		{
+			color: #f9f9f9;
+			font-size: 15px;
+			float:right;
+			margin: 60px 385px 50px 195px;
+			font-family:'Lato',sans-serif;
+		}
